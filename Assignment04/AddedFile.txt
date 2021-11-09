@@ -14,3 +14,6 @@ This is so I can show adding file!!!!!!!!!!
 This is a conflicted changed!!!!!!
 let me try again
 haha deleted another line
+
+
+more text from beyond the computer!!!!!!!!!!
