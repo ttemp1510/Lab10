@@ -11,4 +11,5 @@ This is so I can show adding file!!!!!!!!!!
 This is so I can show adding file!!!!!!!!!!
 
 
-haha deleted another line
+This is a conflicted changed!!!!!!
+let me try again
